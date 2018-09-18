@@ -1,0 +1,24 @@
+/*h1 {*/
+/*width: 400px;*/
+/*height: 400px;*/
+/*}*/
+
+header {
+  color: #FF5722;
+}
+
+header h1 {
+  color: aquamarine;
+}
+
+footer {
+  color: #455A64;
+}
+
+h1 {
+  color: #607D8B;
+}
+
+p {
+  color: #E6EE9C;
+}
